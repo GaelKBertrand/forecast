@@ -8,11 +8,14 @@ use spread.dta
 
 *2)declare the  data as time - series 
 
+*3) Draw a diagram for the changing variable of the stock 
+
 *3)Generate the variable spread as the difference between 
 
 *4)Plot the Long & short Term Int. Rate along with Their Spread
 
-*5)ACF & PACF functions of spread
+*5)ACF & PACF functions 
+     *Use corrgram command to figure out the ACF and PACF faster 
 
 *6)Determine if stationary or not by referring to ACF and PACF by measuring ACF<= 1 (stationary)
 
